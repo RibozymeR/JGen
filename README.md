@@ -14,3 +14,6 @@ WARNINGS:
 - All currently missing features are documented in the file jgen/missing_features.
 
 - Feedback on the interface and recommended improvements is encouraged.
+
+
+little note: There will probably be a C++ version (coming soon).
