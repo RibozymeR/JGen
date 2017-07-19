@@ -1,0 +1,23 @@
+disassembling of code
+
+Inner Classes
+Enclosing Methods
+Signature
+Exception Handlers
+Stack Map Table
+Source Debug Extensions
+Local Variable Table
+Local Variable Type Table
+
+opcodes:
+	wide
+	?invokedynamic?
+
+RuntimeVisibleAnnotations 	49.0 	5.0 	§4.7.16
+RuntimeInvisibleAnnotations 	49.0 	5.0 	§4.7.17
+RuntimeVisibleParameterAnnotations 	49.0 	5.0 	§4.7.18
+RuntimeInvisibleParameterAnnotations 	49.0 	5.0 	§4.7.19
+AnnotationDefault
+(Annotations are difficult!)
+
+Deprecated 	45.3 	1.1 	§4.7.15
